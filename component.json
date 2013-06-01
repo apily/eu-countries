@@ -1,0 +1,8 @@
+{
+  "name": "eu-countries",
+  "repo": "apily/eu-countries",
+  "version": "0.0.1",
+  "description": "European countries",
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
