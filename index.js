@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   "United Kingdom": 1,
   "Albania": 0,
   "Algeria": 0,
