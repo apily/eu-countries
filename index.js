@@ -39,7 +39,7 @@ module.exports = {
   "Comoros": 0,
   "Cook Islands": 0,
   "Costa Rica": 0,
-  "Croatia": 0,
+  "Croatia": 1,
   "Cyprus": 1,
   "Czech Republic": 0,
   "Democratic Republic of the Congo": 0,
